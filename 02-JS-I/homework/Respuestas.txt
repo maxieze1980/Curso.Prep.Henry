@@ -1,0 +1,16 @@
+1. Variables
+Es un valor de cualquier tipo y puede ser utilizado en cualquier momento.
+
+2. Strings
+Cualquier texto/palabra/vocal/consonante.
+
+3. Funciones (argumentos, `return`)
+La funcion es la forma de realizar algo con las variables, ejemplo suma - resta, etc.
+    Los argumentos serian las variables a utilizar en la funcion.
+    Y return, el valor que la funcion deberia dar al usuario.
+
+4. Declaraciones `if`
+El metodo para verificar si algo es verdadero y que accion tomar basado en esa respuesta.
+
+5. Valores booleanos (`true`, `false`)
+Si un Valor/variable es verdadero o falso.
